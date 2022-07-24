@@ -1,0 +1,6 @@
+[submodule "FluxWallet-Flutter-Client"]
+	path = FluxWallet-Flutter-Client
+	url = https://github.com/JL0218/FluxWallet-Flutter-Client
+[submodule "FluxWallet-Server"]
+	path = FluxWallet-Server
+	url = https://github.com/JL0218/FluxWallet-Server
